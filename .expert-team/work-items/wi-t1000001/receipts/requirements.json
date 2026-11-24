@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "receiptId": "requirements:1",
+  "receiptType": "cosmic-requirements",
+  "specId": "cosmic-development-spec",
+  "graphRevision": 16,
+  "actionId": "requirements",
+  "inputRevision": 0,
+  "stateVersion": 1,
+  "outcome": "passed",
+  "contentHash": "sha256:ed145cc763b95386e5ccad08339887118a1fe2f2418b46360aef45e83e658056",
+  "createdAt": "2026-11-24T15:40:55.550Z",
+  "timing": {
+    "startedAt": "2026-11-24T15:32:37.117Z",
+    "completedAt": "2026-11-24T15:40:55.550Z",
+    "durationMs": 498433
+  },
+  "artifacts": [
+    {
+      "path": "docs/wi-t1000001/requirements.md",
+      "bytes": 13028,
+      "sha256": "sha256:cbbe2c7d9d2ab50468db3c14dd8eea537dbcf4e45e2a8e85c1ba67aac52e7af7",
+      "title": "需求规格说明书 (Requirements Spec)"
+    }
+  ],
+  "verification": [
+    {
+      "checkId": "requirements:clarification",
+      "status": "passed",
+      "readiness": {
+        "mode": "document",
+        "semanticHash": "sha256:cbbe2c7d9d2ab50468db3c14dd8eea537dbcf4e45e2a8e85c1ba67aac52e7af7",
+        "revision": 1
+      }
+    }
+  ]
+}

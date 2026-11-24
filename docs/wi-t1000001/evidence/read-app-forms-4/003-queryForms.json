@@ -1,0 +1,7 @@
+{
+  "command": "queryForms",
+  "selector": "-",
+  "attempted": false,
+  "ok": false,
+  "error": "AUTH_UNAVAILABLE: getAppToken failed: 第三方应用ID或应用密钥不正确。"
+}

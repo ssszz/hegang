@@ -1,0 +1,15 @@
+{
+  "workItemId": "wi-t1000001",
+  "applicationId": "application",
+  "applicationBaseline": {
+    "revision": 0,
+    "snapshotHash": null
+  },
+  "workItemType": "initial-build",
+  "title": "采购质检单\n\n在应用 abxt_pm_ext 下创建采购到货质检单1124：\n单据头字段：质检日期  检验时间 采购订单号  收料通知单号  检验员  备注多行文本 审批日期 让步审批人 检验方式下拉[全检,抽检,免检] 检验计划  质检结论下拉[待检验,合格,不合格,让步接收,部分合格]\n质检明细 分录字段：编号、物料 规格型号 物料版本号 单位 是否合格\n\nOriginal task context (user-provided facts):\n\n{\"issueId\":\"30674919595442176\",\"code\":\"T1000001\",\"title\":\"采购质检单\",\"description\":\"在应用 abxt_pm_ext 下创建采购到货质检单1124：\\n单据头字段：质检日期  检验时间 采购订单号  收料通知单号  检验员  备注多行文本 审批日期 让步审批人 检验方式下拉[全检,抽检,免检] 检验计划  质检结论下拉[待检验,合格,不合格,让步接收,部分合格]\\n质检明细 分录字段：编号、物料 规格型号 物料版本号 单位 是否合格\",\"priority\":\"normal\",\"labels\":[],\"kind\":\"feature\",\"acceptanceCriteria\":[],\"projectName\":\"河钢采购管理\"}",
+  "request": "采购质检单\n\n在应用 abxt_pm_ext 下创建采购到货质检单1124：\n单据头字段：质检日期  检验时间 采购订单号  收料通知单号  检验员  备注多行文本 审批日期 让步审批人 检验方式下拉[全检,抽检,免检] 检验计划  质检结论下拉[待检验,合格,不合格,让步接收,部分合格]\n质检明细 分录字段：编号、物料 规格型号 物料版本号 单位 是否合格\n\nOriginal task context (user-provided facts):\n\n{\"issueId\":\"30674919595442176\",\"code\":\"T1000001\",\"title\":\"采购质检单\",\"description\":\"在应用 abxt_pm_ext 下创建采购到货质检单1124：\\n单据头字段：质检日期  检验时间 采购订单号  收料通知单号  检验员  备注多行文本 审批日期 让步审批人 检验方式下拉[全检,抽检,免检] 检验计划  质检结论下拉[待检验,合格,不合格,让步接收,部分合格]\\n质检明细 分录字段：编号、物料 规格型号 物料版本号 单位 是否合格\",\"priority\":\"normal\",\"labels\":[],\"kind\":\"feature\",\"acceptanceCriteria\":[],\"projectName\":\"河钢采购管理\"}",
+  "status": "active",
+  "specId": "cosmic-development-spec",
+  "revision": 0,
+  "createdAt": "2026-11-24T15:32:36.767Z"
+}
